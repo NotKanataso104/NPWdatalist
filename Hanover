@@ -48,9 +48,9 @@
     "number": 5,
     "route": "240Y",
     "front": 1,
-    "frontid1": "rbxassetid://133063604272924",
-    "controllerid1": "rbxassetid://114264479989045",
+    "frontid1": "rbxassetid://114264479989045",
+    "controllerid1": "rbxassetid://107143461027269",
     "side": 1,
-    "sideid1": "rbxassetid://133063604272924"
+    "sideid1": "rbxassetid://114264479989045"
   }
 ]

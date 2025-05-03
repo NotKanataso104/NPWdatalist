@@ -37,18 +37,18 @@
   },
   {
     "number": 3,
-    "route": "22",
-    "destZ": "沙嶺圍",
-    "destY": "大新中心",
+    "route": "240",
+    "destZ": "新南邨",
+    "destY": "十二門南",
     "maxPZ": "2",
-    "priceZ1": "4.3",
-    "halfpriceZ1": "2.2",
-    "priceZ2": "4.3",
-    "halfpriceZ2": "2.2",
+    "priceZ1": "7.2",
+    "halfpriceZ1": "4.1",
+    "priceZ2": "5.2",
+    "halfpriceZ2": "3.1",
     "maxPY": "2",
-    "priceY1": "4.3",
-    "halfpriceY1": "2.2",
-    "priceY2": "4.3",
-    "halfpriceY2": "2.2"
+    "priceY1": "7.2",
+    "halfpriceY1": "4.1",
+    "priceY2": "5.2",
+    "halfpriceY2": "3.1"
   }
 ]

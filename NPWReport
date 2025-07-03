@@ -1,0 +1,72 @@
+[
+  {
+    "route": "SLE",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "SLE",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭",
+    "ChiSoundId": "",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "",
+    "Notification": 0
+  },
+  {
+    "route": "205",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭",
+    "ChiSoundId": "rbxassetid://73015596621449",
+    "Eng": "WELCOME ONBOARD",
+    "EngSoundId": "rbxassetid://71030451431851",
+    "Notification": 0
+  },
+  {
+    "route": "205",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "安樂村",
+    "ChiSoundId": "rbxassetid://89602856307694",
+    "Eng": "ON LOK VILLAGE",
+    "EngSoundId": "rbxassetid://125880464231649",
+    "Notification": 1
+  },
+  {
+    "route": "205",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "彼方山公園",
+    "ChiSoundId": "rbxassetid://87069826787081",
+    "Eng": "KANATA HILL PARK",
+    "EngSoundId": "rbxassetid://109935980487680",
+    "Notification": 1
+  },
+  {
+    "route": "205",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "彼方山豆腐工廠",
+    "ChiSoundId": "rbxassetid://82841685959873",
+    "Eng": "KANATA HILL/nTOFU FACTORY",
+    "EngSoundId": "rbxassetid://139416865309641",
+    "Notification": 1
+  },
+  {
+    "route": "205",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "安樂村",
+    "ChiSoundId": "rbxassetid://",
+    "Eng": "ON LOK VILLAGE",
+    "EngSoundId": "rbxassetid://",
+    "Notification": 1
+  }
+]

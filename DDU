@@ -51,4 +51,16 @@
     "priceY2": "5.2",
     "halfpriceY2": "3.1"
   }
+  {
+    "number": 2,
+    "route": "205",
+    "destZ": "彼方山山頂",
+    "destY": "安西站",
+    "maxPZ": "1",
+    "priceZ1": "$3.2",
+    "halfpriceZ1": "$2.1",
+    "maxPY": "1",
+    "priceY1": "$3.2",
+    "halfpriceY1": "$2.1"
+  }
 ]

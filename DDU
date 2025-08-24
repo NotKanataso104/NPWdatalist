@@ -52,7 +52,7 @@
     "halfpriceY2": "3.1"
   },
   {
-    "number": 3,
+    "number": 4,
     "route": "904X",
     "destZ": "龍門港",
     "destY": "十二門南",
@@ -68,7 +68,7 @@
     "halfpriceY2": "$4.1"
   },
   {
-    "number": 4,
+    "number": 5,
     "route": "205",
     "destZ": "彼方山山頂",
     "destY": "安西站",

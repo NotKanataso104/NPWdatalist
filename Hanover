@@ -58,23 +58,23 @@
     "route": "904XZ",
     "front": 2,
     "frontid1": "rbxassetid://139113210524925",
-    "frontid2": "rbxassetid://84277080269013",
+    "frontid2": "rbxassetid://124785067858418",
     "controllerid1": "rbxassetid://75569428114548",
     "controllerid2": "rbxassetid://120653722220851",
     "side": 2,
-    "sideid1": "rbxassetid://139113210524925",
+    "sideid1": "rbxassetid://74324263550303",
     "sideid2": "rbxassetid://84277080269013"
   },
   {
     "number": 7,
     "route": "904XY",
     "front": 2,
-    "frontid1": "rbxassetid://95365143579754",
-    "frontid2": "rbxassetid://84277080269013",
+    "frontid1": "rbxassetid://74324263550303",
+    "frontid2": "rbxassetid://124785067858418",
     "controllerid1": "rbxassetid://81611628867236",
     "controllerid2": "rbxassetid://120653722220851",
     "side": 2,
-    "sideid1": "rbxassetid://95365143579754",
-    "sideid2": "rbxassetid://84277080269013"
+    "sideid1": "rbxassetid://74324263550303",
+    "sideid2": "rbxassetid://124785067858418"
   }
 ]
